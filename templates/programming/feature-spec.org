@@ -1,0 +1,18 @@
+#+TITLE: Feature Spec - [Feature Name]
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :dev:feature:
+
+* Overview
+
+* Use Cases
+
+* User Story
+As a ____, I want to ____ so that ____.
+
+* Requirements
+- Functional
+- Non-functional
+
+* Open Questions
+
+* Implementation Notes

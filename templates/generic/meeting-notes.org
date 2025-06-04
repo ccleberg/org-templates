@@ -1,0 +1,14 @@
+* Meeting: %<%Y-%m-%d>
+** Attendees
+- Alice
+- Bob
+
+** Agenda
+- Item 1
+- Item 2
+
+** Notes
+- Discussion summary here
+
+** Action Items
+- [ ] Follow up with X

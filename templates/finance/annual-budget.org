@@ -1,0 +1,25 @@
+#+TITLE: Annual Budget Plan - %<%Y>
+#+FILETAGS: :finance:planning:
+
+* Overview
+- Goal: Save $10,000
+- Strategy: Reduce expenses, automate savings
+
+* Income Sources
+| Source       | Monthly | Annual |
+|--------------+---------+--------|
+| Primary Job  | 3000    | 36000  |
+| Side Work    | 500     | 6000   |
+
+* Fixed Expenses
+| Item         | Monthly | Annual |
+|--------------+---------+--------|
+| Rent         | 1200    | 14400  |
+| Insurance    | 200     | 2400   |
+
+* Savings Plan
+- Emergency Fund: $5000
+- Retirement: $3000
+- Other: $2000
+
+* Notes

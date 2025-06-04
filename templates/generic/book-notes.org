@@ -1,0 +1,18 @@
+#+TITLE: Book Notes: [Book Title]
+#+AUTHOR: Your Name
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :books:
+
+* Metadata
+- Author:
+- Started:
+- Finished:
+- Rating: ☆☆☆☆☆
+
+* Summary
+
+* Key Ideas
+
+* Quotes
+
+* Personal Reflections

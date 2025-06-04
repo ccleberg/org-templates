@@ -1,0 +1,13 @@
+#+TITLE: Expense Log - %<%Y-%m>
+#+FILETAGS: :finance:expenses:
+
+* Expenses
+| Date       | Description       | Category    | Amount | Payment Method |
+|------------+-------------------+-------------+--------+----------------|
+| 2025-06-01 | Groceries         | Food        | 75.00  | Credit Card    |
+| 2025-06-02 | Spotify           | Subscription| 10.00  | Debit Card     |
+| 2025-06-03 | Coffee            | Misc        | 3.50   | Cash           |
+
+* Totals
+- Monthly Total: 
+- Highest Category: 

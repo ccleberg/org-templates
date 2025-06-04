@@ -1,0 +1,15 @@
+#+TITLE: Coding Notes - [Topic]
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :code:reference:
+
+* Summary
+
+* Examples
+#+BEGIN_SRC python
+def hello():
+    print("Hello, world!")
+#+END_SRC
+
+* Gotchas
+
+* References

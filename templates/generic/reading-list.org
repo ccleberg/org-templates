@@ -1,0 +1,15 @@
+#+TITLE: Reading List
+#+FILETAGS: :reading:list:
+
+* To Read
+** TODO [#B] [[https://example.com][Book Title]] :fiction:
+   :PROPERTIES:
+   :Author: Author Name
+   :END:
+
+* In Progress
+** STARTED Book Title 2
+
+* Finished
+** DONE Book Title 1
+   CLOSED: [%<%Y-%m-%d>]

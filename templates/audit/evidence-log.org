@@ -1,0 +1,15 @@
+#+TITLE: Audit Evidence Log
+#+FILETAGS: :audit:evidence:
+
+* Audit Scope
+- Audit Type: Internal / External
+- Period: Q%<%m> %<%Y>
+
+* Evidence Items
+| Item             | Description                        | Location                 | Verified By |
+|------------------+------------------------------------+--------------------------+-------------|
+| Access logs      | System login audit trail           | /var/log/auth.log        | auditor1    |
+| Backup reports   | Weekly backup success reports      | backup_reports/          | auditor2    |
+| Change tickets   | Jira change tickets for Q2         | jira.example.com/project | it-lead     |
+
+* Notes

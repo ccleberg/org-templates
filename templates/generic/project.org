@@ -1,0 +1,16 @@
+#+TITLE: Project Template
+#+AUTHOR: Your Name
+#+DATE: %U
+#+OPTIONS: toc:nil
+
+* Overview
+- Goal:
+- Deadline:
+- Status:
+
+* Tasks
+** TODO Initial Research
+** TODO Set Milestones
+** TODO Finalize Plan
+
+* Notes

@@ -1,0 +1,12 @@
+#+TITLE: Dev Diary - %<%Y-%m-%d>
+#+FILETAGS: :dev:journal:
+
+* What I Worked On
+
+* Challenges
+
+* Breakthroughs
+
+* Tomorrow’s Plan
+
+* Notes

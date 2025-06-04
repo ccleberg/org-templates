@@ -1,0 +1,15 @@
+#+TITLE: Infrastructure Inventory
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :infra:inventory:
+
+* Servers
+| Hostname      | Role     | IP Address   | OS        | Notes       |
+|---------------+----------+--------------+-----------+-------------|
+| app01         | app      | 192.168.1.10 | Ubuntu 22 | Production  |
+| db01          | database | 192.168.1.20 | Debian 11 | PostgreSQL  |
+
+* Services
+| Name      | Port | Status     |
+|-----------+------+------------|
+| nginx     | 443  | running    |
+| postgres  | 5432 | running    |

@@ -1,0 +1,16 @@
+#+TITLE: Threat Model - [System or App]
+#+FILETAGS: :security:threat:
+
+* Overview
+- What is being modeled?
+- Assets to protect:
+
+* Assumptions
+
+* Potential Threats
+
+* Attack Vectors
+
+* Mitigations
+
+* Notes

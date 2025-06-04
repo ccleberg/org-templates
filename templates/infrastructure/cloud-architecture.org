@@ -1,0 +1,21 @@
+#+TITLE: Cloud Architecture - [System or App]
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :infra:cloud:
+
+* Overview
+This document outlines the cloud setup for [System Name].
+
+* AWS Resources
+| Type          | Name       | Region     | Notes         |
+|---------------+------------+------------+---------------|
+| EC2 Instance  | app-prod   | us-west-1  | t3.micro       |
+| RDS           | pg-main    | us-west-1  | PostgreSQL 14 |
+
+* Networking
+- VPC: vpc-123abc
+- Subnets: Public / Private
+- Security Groups: SG-web, SG-db
+
+* Monitoring / Observability
+- CloudWatch
+- Prometheus

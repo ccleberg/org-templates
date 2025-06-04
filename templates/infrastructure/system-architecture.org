@@ -1,0 +1,23 @@
+#+TITLE: System Architecture - [System Name]
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :infra:architecture:
+
+* Overview
+Brief description of the system or service.
+
+* Components
+- Component A: Description
+- Component B: Description
+
+* Data Flow
+
+#+BEGIN_SRC dot :file dataflow.png :exports results :cmdline -Tpng
+digraph G {
+  Client -> API -> Worker -> DB;
+}
+#+END_SRC
+
+* Dependencies
+
+* Diagrams
+Attach or link to diagrams here.

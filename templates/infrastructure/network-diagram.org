@@ -1,0 +1,16 @@
+#+TITLE: Network Diagram - [Environment Name]
+#+FILETAGS: :infra:network:
+
+* Overview
+
+* Layout
+
+#+BEGIN_SRC dot :file network-diagram.png :exports results :cmdline -Tpng
+graph G {
+  "Internet" -- "Load Balancer"
+  "Load Balancer" -- "App Servers"
+  "App Servers" -- "Database"
+}
+#+END_SRC
+
+* Notes

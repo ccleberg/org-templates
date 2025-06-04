@@ -1,0 +1,14 @@
+#+TITLE: Infrastructure Change Log
+#+FILETAGS: :infra:changelog:
+
+* %<%Y-%m-%d>
+** [Component] nginx config update
+- Changed SSL certificate
+- Reloaded nginx
+
+** [Component] Terraform apply on staging
+- Added S3 bucket
+
+* %<%Y-%m-%d>
+** [Component] PostgreSQL backup settings
+- Enabled WAL archiving

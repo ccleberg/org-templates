@@ -1,0 +1,15 @@
+#+TITLE: Title Goes Here
+#+AUTHOR: Your Name
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :blog:
+#+OPTIONS: toc:nil html-postamble:nil
+
+* Introduction
+
+* Main Content
+
+* Conclusion
+
+# Local Variables:
+# org-export-with-toc: nil
+# End:

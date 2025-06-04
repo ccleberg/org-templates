@@ -1,0 +1,25 @@
+#+TITLE: Security Incident Report
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :security:incident:
+
+* Summary
+A short summary of what happened.
+
+* Timeline
+| Time        | Event |
+|-------------+-------|
+| %<%Y-%m-%d %H:%M> | Incident detected |
+
+* Systems Affected
+
+* Root Cause
+
+* Impact
+
+* Response Actions
+
+* Lessons Learned
+
+* Follow-Up Tasks
+- [ ] Improve detection
+- [ ] Update documentation

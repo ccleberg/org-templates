@@ -1,0 +1,7 @@
+#+TITLE: Habit Tracker
+#+STARTUP: hidestars
+* Habits
+| Date       | Meditate | Read | Exercise |
+|------------+----------+------+----------|
+| %<%Y-%m-%d> | [ ]      | [ ]  | [ ]      |
+|            |          |      |          |

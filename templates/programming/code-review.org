@@ -1,0 +1,20 @@
+#+TITLE: Code Review Notes
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :dev:review:
+
+* PR Info
+- Title:
+- Author:
+- Repo/Branch:
+
+* Summary
+
+* Review Checklist
+- [ ] Functionality
+- [ ] Code style
+- [ ] Tests included
+- [ ] Docs updated
+
+* Comments
+** TODO Suggest more modular functions
+** DONE Fixed broken test case

@@ -1,0 +1,25 @@
+#+TITLE: Monthly Budget - %<%Y-%m>
+#+FILETAGS: :finance:budget:
+
+* Income
+| Source       | Amount |
+|--------------+--------|
+| Salary       | 3000   |
+| Freelance    | 800    |
+| Other        | 0      |
+| *Total*      | *3800* |
+
+* Expenses
+| Category     | Budgeted | Actual | Notes              |
+|--------------+----------+--------+---------------------|
+| Rent         | 1200     |        |                     |
+| Groceries    | 400      |        |                     |
+| Utilities    | 150      |        |                     |
+| Internet     | 60       |        |                     |
+| Subscriptions| 100      |        |                     |
+| Misc         | 200      |        |                     |
+| *Total*      | *2110*   |        |                     |
+
+* Net Savings
+- Expected: 1690
+- Actual: 

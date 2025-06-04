@@ -1,0 +1,24 @@
+#+TITLE: Terraform Module Documentation - [Module Name]
+#+FILETAGS: :infra:terraform:
+
+* Description
+
+* Input Variables
+| Name      | Type   | Default | Description            |
+|-----------+--------+---------+------------------------|
+| region    | string | us-east-1 | AWS region             |
+| instance_type | string | t3.micro | EC2 instance type |
+
+* Outputs
+| Name     | Description         |
+|----------+---------------------|
+| instance_id | ID of the EC2 instance |
+
+* Example Usage
+#+BEGIN_SRC terraform
+module "example" {
+  source         = "./modules/example"
+  region         = "us-west-1"
+  instance_type  = "t3.micro"
+}
+#+END_SRC

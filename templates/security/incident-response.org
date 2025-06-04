@@ -1,0 +1,21 @@
+#+TITLE: Ops Incident Response
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :ops:incident:
+
+* Summary
+
+* Timeline of Events
+| Time        | Event |
+|-------------+-------|
+
+* Detection
+
+* Mitigation
+
+* Communication Log
+
+* Postmortem Notes
+
+* Action Items
+- [ ] Add monitoring
+- [ ] Automate mitigation

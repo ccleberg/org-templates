@@ -1,0 +1,19 @@
+#+TITLE: Runbook - [Task Name]
+#+FILETAGS: :ops:runbook:
+
+* Purpose
+
+* Prerequisites
+- Access
+- Dependencies
+
+* Step-by-step Instructions
+1. SSH into the server
+2. Run backup script
+3. Check log at /var/log/foo.log
+
+* Troubleshooting
+
+* Rollback Plan
+
+* Related Docs

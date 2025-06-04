@@ -1,0 +1,18 @@
+#+TITLE: IT Audit Checklist
+#+FILETAGS: :audit:checklist:
+
+* Audit Area: [Security / Operations / Data Protection]
+
+* Checklist
+- [ ] Access controls documented
+- [ ] Change management procedures in place
+- [ ] Logging and monitoring enabled
+- [ ] Incident response plan exists
+- [ ] Backups verified and tested
+- [ ] Data retention policy followed
+- [ ] Vendor risk assessments updated
+
+* Notes
+
+* Evidence Reference
+- [Link to document or file path]

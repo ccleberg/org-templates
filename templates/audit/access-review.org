@@ -1,0 +1,24 @@
+#+TITLE: Access Review Report
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :audit:access:
+
+* System/Service
+- Name:
+- Owner:
+- Review Period: Q%<%m> %<%Y>
+
+* Purpose of Review
+Why access is being reviewed.
+
+* Current Access List
+| User      | Role        | Last Login     | Justification        |
+|-----------+-------------+----------------+-----------------------|
+| jdoe      | admin       | 2025-05-30     | Required for prod ops |
+
+* Changes Required
+- [ ] Revoke access for user `abc`
+- [ ] Review access policy
+
+* Reviewer
+- Name:
+- Date:

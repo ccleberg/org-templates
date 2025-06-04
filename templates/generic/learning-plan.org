@@ -1,0 +1,15 @@
+#+TITLE: Learning Plan: [Topic]
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :learning:plan:
+
+* Goal
+
+* Timeline
+
+* Resources
+- [[https://example.com][Resource Name]]
+
+* Progress
+** TODO Module 1
+** TODO Module 2
+** DONE Module 3

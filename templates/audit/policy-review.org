@@ -1,0 +1,20 @@
+#+TITLE: IT Policy Review Record
+#+FILETAGS: :audit:policy:
+
+* Policy Name:
+- Version:
+- Owner:
+- Review Date: %<%Y-%m-%d>
+
+* Summary of Changes
+- Clarified access escalation rules
+- Updated acceptable use policy
+
+* Review Outcome
+- [X] Approved
+- [ ] Rejected
+- [ ] Needs revision
+
+* Reviewer Comments
+
+* Next Review Due:

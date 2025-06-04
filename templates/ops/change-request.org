@@ -1,0 +1,17 @@
+#+TITLE: Change Request - [System/Service]
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :ops:change:
+
+* Description
+
+* Rationale
+
+* Impact Assessment
+
+* Rollout Plan
+
+* Rollback Plan
+
+* Approval
+- Requested by:
+- Reviewed by:

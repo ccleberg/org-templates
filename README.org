@@ -1,0 +1,41 @@
+#+TITLE: Org-Templates
+#+AUTHOR: Christian Cleberg
+#+OPTIONS: toc:nil
+
+This repository contains reusable Org-mode templates intended for structured
+documentation of various workflows. Templates are grouped by domain under the
+=templates/= directory.
+
+* Directory Structure
+
+The repository is organized as follows:
+
+- =templates/audit/= contains templates for IT auditing and review.
+- =templates/finance/= contains templates for budgeting and expense tracking.
+- =templates/generic/= contains general-purpose templates for journaling,
+  planning, and note-taking.
+- =templates/infrastructure/= contains templates for documenting systems,
+  networks, and architecture.
+- =templates/ops/= contains templates for operational tasks such as runbooks and
+  change management.
+- =templates/programming/= contains templates for development tasks such as code
+  review and bug tracking.
+- =templates/security/= contains templates for incident response and threat
+  modeling.
+
+* Usage Instructions
+
+Templates are written in standard Org-mode format and can be inserted manually
+or integrated with Emacs systems such as =org-capture= or =yasnippet=. No
+special tooling is required.
+
+* Contribution Policy
+
+Contributions are accepted in the form of additional templates, modifications to
+existing templates, or structural improvements to the repository. Submissions
+must maintain the plain text, structured, and minimal nature of the project.
+
+* Repository Listing
+
+A directory listing is available in the =tree.txt= file at the root of the
+repository.

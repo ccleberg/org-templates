@@ -1,0 +1,12 @@
+* Daily Planner - %<%Y-%m-%d>
+** Schedule
+08:00 - Wake up
+09:00 - Work session
+12:00 - Lunch
+...
+
+** Tasks
+- [ ] Important task
+- [ ] Stretch goal
+
+** Notes

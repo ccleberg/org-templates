@@ -1,0 +1,11 @@
+#+TITLE: Task Tracker
+#+TODO: TODO STARTED WAITING | DONE CANCELED
+
+* Inbox
+** TODO Example Task
+
+* Work
+** TODO Something important
+
+* Personal
+** TODO Read a book

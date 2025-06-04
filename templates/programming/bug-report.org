@@ -1,0 +1,23 @@
+#+TITLE: Bug Report Template
+#+DATE: %<%Y-%m-%d>
+#+FILETAGS: :dev:bugs:
+
+* Summary
+Brief description of the bug.
+
+* Steps to Reproduce
+1. 
+2. 
+3. 
+
+* Expected Behavior
+
+* Actual Behavior
+
+* Environment
+- OS:
+- App version:
+- Logs:
+
+* Status
+** TODO Needs Triage

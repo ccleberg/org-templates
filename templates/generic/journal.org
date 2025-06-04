@@ -1,0 +1,9 @@
+* %<%Y-%m-%d %A>
+:PROPERTIES:
+:Created:  %U
+:END:
+
+** Mood
+** Events
+** Reflections
+** Gratitude

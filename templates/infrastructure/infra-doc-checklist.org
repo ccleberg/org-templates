@@ -1,0 +1,12 @@
+#+TITLE: Infrastructure Documentation Checklist
+#+FILETAGS: :infra:meta:
+
+* Checklist
+- [ ] Architecture overview
+- [ ] Diagrams
+- [ ] Component breakdown
+- [ ] Network layout
+- [ ] Access controls
+- [ ] Backup & recovery
+- [ ] Change history
+- [ ] Monitoring setup
