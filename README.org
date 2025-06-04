@@ -6,6 +6,14 @@ This repository contains reusable Org-mode templates intended for structured
 documentation of various workflows. Templates are grouped by domain under the
 =templates/= directory.
 
+See the live preview of these templates exported to HTML at
+[[https://org-templates.cleberg.net][org-templates.cleberg.net]]. A set of
+minimal CSS rules are applied from the =assets/styles.css= file.
+
+To generate the HTML files locally, run the provided =export.sh= script from a
+command line shell. This script processes the Org files and produces the HTML
+exports. No additional configuration is required.
+
 * Directory Structure
 
 The repository is organized as follows:
