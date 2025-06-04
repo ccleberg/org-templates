@@ -10,18 +10,15 @@ documentation of various workflows. Templates are grouped by domain under the
 
 The repository is organized as follows:
 
-- =templates/audit/= contains templates for IT auditing and review.
-- =templates/finance/= contains templates for budgeting and expense tracking.
-- =templates/generic/= contains general-purpose templates for journaling,
-  planning, and note-taking.
-- =templates/infrastructure/= contains templates for documenting systems,
-  networks, and architecture.
-- =templates/ops/= contains templates for operational tasks such as runbooks and
-  change management.
-- =templates/programming/= contains templates for development tasks such as code
-  review and bug tracking.
-- =templates/security/= contains templates for incident response and threat
-  modeling.
+| Directory      | Description                                                            |
+|----------------+------------------------------------------------------------------------|
+| audit          | Templates for IT auditing and review                                   |
+| finance        | Templates for budgeting and expense tracking                           |
+| generic        | General-purpose templates for journaling, planning, and note-taking    |
+| infrastructure | Templates for documenting systems, networks, and architecture          |
+| ops            | Templates for operational tasks such as runbooks and change management |
+| programming    | Templates for development tasks such as code review and bug tracking   |
+| security       | Templates for incident response and threat modeling                    |
 
 * Usage Instructions
 
