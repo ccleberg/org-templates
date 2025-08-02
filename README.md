@@ -1,0 +1,30 @@
+This repository contains reusable Org-mode templates intended for
+structured documentation of various workflows. Templates are grouped by
+domain under the `templates/` directory.
+
+# Directory Structure
+
+The repository is organized as follows:
+
+| Directory | Description |
+|----|----|
+| audit | Templates for IT auditing and review |
+| finance | Templates for budgeting and expense tracking |
+| generic | General-purpose templates for journaling, planning, and note-taking |
+| infrastructure | Templates for documenting systems, networks, and architecture |
+| ops | Templates for operational tasks such as runbooks and change management |
+| programming | Templates for development tasks such as code review and bug tracking |
+| security | Templates for incident response and threat modeling |
+
+# Usage Instructions
+
+Templates are written in standard Org-mode format and can be inserted
+manually or integrated with Emacs systems such as `org-capture` or
+`yasnippet`. No special tooling is required.
+
+# Contribution Policy
+
+Contributions are accepted in the form of additional templates,
+modifications to existing templates, or structural improvements to the
+repository. Submissions must maintain the plain text, structured, and
+minimal nature of the project.
